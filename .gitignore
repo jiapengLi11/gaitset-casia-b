@@ -1,0 +1,16 @@
+.idea/
+__pycache__/
+*.py[cod]
+
+work/checkpoint/
+work/partition/
+pretreatment.log
+
+data/
+output/
+
+*.ptm
+*.npy
+
+Thumbs.db
+.DS_Store

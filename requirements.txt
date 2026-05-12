@@ -1,0 +1,7 @@
+numpy>=1.21
+opencv-python>=4.7
+scipy>=1.8
+torch>=1.10
+xarray>=2022.3
+rarfile>=4.0
+py7zr>=0.20
